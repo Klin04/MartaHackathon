@@ -1,10 +1,28 @@
 package com.example.krrishdholakia.martaview8;
 
 
+<<<<<<< HEAD
 import android.Manifest;
 import android.content.Context;
 import android.content.pm.ActivityInfo;
 import android.content.pm.PackageManager;
+=======
+import com.example.krrishdholakia.martaview8.PermissionUtils;
+import com.example.krrishdholakia.martaview8.R;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.GoogleMap.OnMyLocationButtonClickListener;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+
+import android.Manifest;
+import android.content.pm.PackageManager;
+import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
+import android.widget.Toast;
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.CoordinatorLayout;
@@ -49,15 +67,23 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+<<<<<<< HEAD
 import static android.R.id.list;
 
 public class MainActivity extends FragmentActivity implements OnMapReadyCallback, OnStreetViewPanoramaReadyCallback, OnMyLocationButtonClickListener,
         ActivityCompat.OnRequestPermissionsResultCallback {
+=======
+public class MainActivity extends FragmentActivity implements OnMapReadyCallback, OnStreetViewPanoramaReadyCallback,
+        OnMyLocationButtonClickListener,
+        ActivityCompat.OnRequestPermissionsResultCallback {
+    private static final int LOCATION_PERMISSION_REQUEST_CODE = 1;
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
 
     private GoogleMap map;
     private GoogleMapsBottomSheetBehavior behavior;
     private View parallax;
     private static final LatLng SYDNEY = new LatLng(-33.87365, 151.20689);
+<<<<<<< HEAD
     private static final int LOCATION_PERMISSION_REQUEST_CODE = 1;
     String[] mobileArray = {"Android","IPhone","WindowsMobile","Blackberry",
             "WebOS","Ubuntu","Windows7","Max OS X"};
@@ -65,6 +91,9 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
      * Flag indicating whether a requested permission has been denied after returning in
      * {@link #onRequestPermissionsResult(int, String[], int[])}.
      */
+=======
+
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
     private boolean mPermissionDenied = false;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -147,7 +176,10 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
     public void onMapReady(GoogleMap googleMap) {
         this.map = googleMap;
         behavior.anchorMap(map);
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
         behavior.setState(GoogleMapsBottomSheetBehavior.STATE_COLLAPSED);
         behavior.setHideable(false);
         // Add a marker in Sydney and move the camera
@@ -155,6 +187,10 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         map.setOnMarkerClickListener(new GoogleMap.OnMarkerClickListener() {
             @Override
             public boolean onMarkerClick(Marker marker) {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
                 map.animateCamera(CameraUpdateFactory.newLatLng(marker.getPosition()));
                 return true;
             }
@@ -162,13 +198,25 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         map.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
             @Override
             public void onMapClick(LatLng latLng) {
+<<<<<<< HEAD
             }
         });
+=======
+                behavior.setHideable(false);
+                behavior.setState(GoogleMapsBottomSheetBehavior.STATE_COLLAPSED);
+            }
+        });
+        map.moveCamera(CameraUpdateFactory.newLatLng(SYDNEY));
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
 
 
         map.setOnMyLocationButtonClickListener(this);
         enableMyLocation();
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
     private void enableMyLocation() {
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
                 != PackageManager.PERMISSION_GRANTED) {
@@ -179,6 +227,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
             // Access to the location has been granted to the app.
             map.setMyLocationEnabled(true);
         }
+<<<<<<< HEAD
     }
 
     @Override
@@ -191,6 +240,19 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
 
 
     @Override
+=======
+    }
+
+    @Override
+    public boolean onMyLocationButtonClick() {
+        Toast.makeText(this, "MyLocation button clicked", Toast.LENGTH_SHORT).show();
+        // Return false so that we don't consume the event and the default behavior still occurs
+        // (the camera animates to the user's current position).
+        return false;
+    }
+
+    @Override
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions,
                                            @NonNull int[] grantResults) {
         if (requestCode != LOCATION_PERMISSION_REQUEST_CODE) {
@@ -206,7 +268,10 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
             mPermissionDenied = true;
         }
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
     @Override
     protected void onResumeFragments() {
         super.onResumeFragments();
@@ -217,9 +282,12 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         }
     }
 
+<<<<<<< HEAD
     /**
      * Displays a dialog with error message explaining that the location permission is missing.
      */
+=======
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
     private void showMissingPermissionError() {
         PermissionUtils.PermissionDeniedDialog
                 .newInstance(true).show(getSupportFragmentManager(), "dialog");

@@ -2,7 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
+<<<<<<< HEAD
     buildToolsVersion '25.0.0'
+=======
+    buildToolsVersion '26.0.1'
+
+>>>>>>> 0b282c930ddabbd930d74ea0cedff6960e341cdc
     defaultConfig {
         applicationId "com.example.krrishdholakia.martaview9"
         minSdkVersion 21
