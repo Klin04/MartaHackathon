@@ -1,0 +1,39 @@
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/coordinator_layout">
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"/>
+
+    <fragment
+        android:id="@+id/parallax"
+        class="com.google.android.gms.maps.SupportStreetViewPanoramaFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/bottomsheet"
+        android:background="@android:color/white"
+        android:layout_gravity="bottom"
+        app:behavior_hideable="true"
+        app:behavior_header_layout="@layout/custom_header"
+        app:behavior_content_layout="@layout/custom_content"
+        android:elevation="16dp"
+        app:layout_behavior="com.github.reline.GoogleMapsBottomSheetBehavior" />
+
+</android.support.design.widget.CoordinatorLayout>
