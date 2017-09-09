@@ -20,9 +20,6 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".MyLocationDemoActivity"
-            android:label="@string/my_location_demo_label"/>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDxXCzZ04oqSTcTesWb2RsuEoECbT5uZXg" />
