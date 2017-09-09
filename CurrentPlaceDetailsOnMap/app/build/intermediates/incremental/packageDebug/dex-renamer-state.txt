@@ -1,0 +1,7 @@
+#Sat Sep 09 11:46:21 EDT 2017
+base.0=C\:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_24e1d2aca0e4cde2055aa2bcd6b5ff2123a4369e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3aaa93ededd124712f0632b0be107eeba99e9f60\\classes.dex
+base.1=C\:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3aaa93ededd124712f0632b0be107eeba99e9f60
+file.0=C\:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_24e1d2aca0e4cde2055aa2bcd6b5ff2123a4369e\\classes.dex

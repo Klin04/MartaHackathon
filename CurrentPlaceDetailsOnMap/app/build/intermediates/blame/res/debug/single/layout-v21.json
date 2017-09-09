@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Abdullah\\.android\\build-cache\\6e8a2afc84dc4b2fbfc1d4451845f216d41140a4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Abdullah\\.android\\build-cache\\1d9baa8b7ff4326a03f0bc729e5bcce87c9377ce\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Abdullah\\.android\\build-cache\\6e8a2afc84dc4b2fbfc1d4451845f216d41140a4\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Abdullah\\.android\\build-cache\\6e8a2afc84dc4b2fbfc1d4451845f216d41140a4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Abdullah\\.android\\build-cache\\6e8a2afc84dc4b2fbfc1d4451845f216d41140a4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

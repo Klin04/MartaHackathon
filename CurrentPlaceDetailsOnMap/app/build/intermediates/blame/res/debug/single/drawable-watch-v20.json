@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Abdullah\\.android\\build-cache\\41d293ce6085af24dbed188380fdf9a656c41f98\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Abdullah\\.android\\build-cache\\41d293ce6085af24dbed188380fdf9a656c41f98\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Abdullah\\.android\\build-cache\\41d293ce6085af24dbed188380fdf9a656c41f98\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    }
+]
