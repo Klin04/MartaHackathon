@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\cd8200c6f2a4289bf57dbe1ac65fc8dfd8294318\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc10e35f477578b1766c883d4a8561c207684531">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0903b103d1c674068c1fad358bbe11dc1360fd71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\1b91451d77b2ebbab488742e5b4290c7b577d941\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c839ceb2113b00249e896c1c02ae15cdd8380345">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c4e4eabf661f41a769526304aca3362652e9507\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\e59c3b370c600d97ba51d3adb8fd991039e83226\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91428bccfdd1aa8796ee47a77730cffe7acea350\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\4ad0cd3acc282e3ae05b1a380fbca9841df3938e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d2715d1c6e2f14637a159ec1959f221ea78a53c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\0670659f04f564d04066060af3c119adf179d7a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e82b33733f801187c5b502d56fe1e3014de84b71">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b45f0f274bff4b1abef2d1e5996645aeb5e4c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\abf4546b0a9c81f25859fe9253b049af5c92d2b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5819a2518121a236ef93144fdf624dfa8ea8f68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\937c23678222a145b8df8aa6ac336057042644fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="816a71eb5b0340d26db3056aa33f58dad108315b">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1587a21b61db4bfe6e53492da98451e836a7f9d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\8ef64f4b07d39899eaa7a569fbf9398b2d2e79b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a5d6d1185bb10ccbfe22134a3fcd070e531df0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\3e652b083e50016963776594df02a65a5f0ea766\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="539c74d461960397d4c3f72623c72eb766569075">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e342c00d8c34a6d309741df1678546ad79a7380d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\cd92da36c455a287c54d16db6dcddcddfebf020c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cee5e5f1a28a46dd3fa6b4486cbf86a73a4a594c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\3cd8de09296598443fed810a913eb5a683ec77bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3753fb91a44448c442df8c1bf958b1f0dcb9e002\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\1bfda93610aa09abdc13ee5b6183f8630d0f89cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="814b7c015442bfbedc29035e7afdfe383d893a03">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82043eec7f1917114e70cf427d0dfb7d6e354eb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\b144cef11349323586428f557e37a943274c1b73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_649347a19dc4f27118d028a62dfa73796b3ae730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\42b97a033c3d6fe2ce3a9db0ba99b2e600b4eab8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96f588684752658bd653ed7f7a3381f99c57e7ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\4c315ca0df7c7a8454127a12eb2a513b45e37883\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d276494cd36c32aa9c0b31d29f3e472342453085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\73a4c3444434d431f40d7d7082d6614ad3415ecd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14f5e82df6f4531219640ad956a2aa02214a5159\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\76e5514f7e5d2aa13c72101ffc114349e965def2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="103378d4e51581df4783e9e4a59a1775fe4f4104">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a2a79e029e8cc3ff932b97bf219d5d6f3ea280c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\c31d8f42a0144409a5529181244916e94bfcf1e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ceea47dd843efe515e16a2911af61409b4eb62e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\1a6f58fca1f53ede0a76b9471ce05983e4f0fdc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8c52b86181d4d0cacdac199cc46d226d4647ae6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\cb3612ad713e44b5b74b7ecd2c58a1079b43d6fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6987a74958e42b559fd0eacef972173f59ba93bb">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_986777e6dff5380ef1ce047ee1f2cca789f1b101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\c8c946345484f8817508a2b21c9a77c6f4628ef4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="010af21d7b95f7c975dd3d2fb2aa936a241b385b">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e14e9409828c7c32e9373791f9560f6e1d029ad3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\e3b9120ddc8ccff4396fb5816b6a723661ca9210\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_154b95fef2885e4075c60252a00fced69b30443a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\1c048e60a15f8907407755b0736a9eecd3d16075\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="171b54791d6ecec42ffc943bf9ea1a363ff6ab4f">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa7a04c8dd96504f218481081cc0f142a1e61651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\119826082e5cb133d39ce6f6d31450695135a5f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14d92996c51a614a4f37dd90bf057664384b8909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\dffd5e242f2fb03ee7986a71b76999cc882644a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6a5692945e9d4bc34baddb4f7cb79070038f739">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0f3cea743b440cf7352895d05a565f5124d6447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\12b526b8a5b0ab4c8cfa98dbac9f1114b689768e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31aafe75ac42184d700ec3f862bf735c33ba201a">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8532a5c689ada1b66e5a8e838a8dd12375db66d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\1d9baa8b7ff4326a03f0bc729e5bcce87c9377ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a069942e10158317745b18bcc683d3f60957293c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\34a5c2d21c2d231dadc262d1fa7e571c1f2a849d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74604e35e77c9d8bec642b7c556750b90bd63b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\6fc34cd8fa005d458e479d019131a0b968f037fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a750718feef28367759fa3862ccef553dfa9e81a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\225305ffa69c555685f5c87bd4860d993ded5bc9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_899dd009abf04027f6044b604352c97d0959e2ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\b7ef05b313bd31b5b8a70f942bc8019bc74ce20b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c5dc87bbceb8ec50fa77922dc3663ba0149daba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_303542b45e6ac992ed2f12391f3593243c506604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\9fab2d81e812e50de7d9c81bd4ad8fb7ed48ee36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a3ae2ca8e64cdda4ae59aef07e33226cb950f5c">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f656c7970f6bf55f62ec4916987716153e27482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\aacce6ac6c3c45610d77be4a662778cc96da07e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3a0d55874ee03de768356d540983a20c95dd07a">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8407b92803dd8a7930903593c3511f67493271c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\15a1f33240fbf779bb260af16cc7fda97f64f421\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5e24e901834850335a8bb7d95cf51ea1468a32a">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13063ef58c5af3d77f7cdccd2b6d455ad9004a90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\1428253b78d2248a118969950ee0bc351f950042\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83f83593e58b678e8e6b8db6cf1fd8fe0e22dfe1">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f2f07f5133218414e087639d1e1903dc4a3ccca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\5f73fff05b201e364791c215b95c6f868befe435\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb4531571c1fd4e4f4fda4c01cd10b04af55a184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3aaa93ededd124712f0632b0be107eeba99e9f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\9ff94a493af3941da217952d70e4da50155ddb87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_873d0b9504d0a3b1aa50643540edf15373dc4ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\960f4facc1cd545c6800e88af8bd1e057e9e854b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73906979d5aac4817b631794aa6bec1ca60cbf83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\2cbe22fd818938b5498f435b9edbe8c60f0f7480\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4f45a7759d3f8f4b7bf88dc272cc35570389292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\723f1e46ec8c96de2ec1f1aff171ea7f36113d7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3227957f15e5f672f35758c028cf3b94fb39b56d">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30f1845b95b1dec52cb24250ab361ad039a7be86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\0405e5c4f7ee225bbe11a880e8ea3dfd11832666\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93c613457e32d7cafb57ab2fdd5e6bbda9649b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\2c459e44e74d48793ec787bacffc81f55b8b411d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7161f4948c1cc3ef023bab6526198ce7dbe3391f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\9a8e57772e9615201ed2f631b5c7a19ae12016a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31b7a743f6c316e7be4bf028aa6e74a185077afd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\dd131ce07e7b8978a692bad08f2ef58a7943b50a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7322bc39614b4e683a12712e3c01e5c902c3d401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\7462b928a0b9da7c65d5cc395fa5627206537809\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc964090be3be36a58290a76fd957eb56a046dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\3427e3980de4793002eff9fef4bbfa441f6ea0c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e64ccb50851552af272ffbb5752416f0a62f4e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\c6cf2224cb09483d7c37150f03c8f1cf898de474\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a8ae88a3addcb045172d340c4d1e977cbd50c39">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c64e788f563d3b758da3066c0aad15ae83df08d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\759f8e7d300a9a84476367527bc30295efc5c38b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2df69841cd9793d6bfa2f78b7b7f4ea06d2296a7">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bef9437471cb94df082252c704b97fd12770e782\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\1d89ab6cb22558530b48ae99e77596487f9123a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="694e2bf7a21fa46310a4a0309b9943060d573abe">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e16ef327ab5e09c81a2870c25b9a5e0c68d0ab4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\be1e0ba9c1d33b93364f7c9f803f27857f843418\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a8886bb6180c65decdc79b502ab60665dd5fce9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_8447ba9f5deaf4e41d8fbb2b9bbf6eb70f7e0992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\48740283d5326f10948e1a381fe766107836390b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30b06e855b3881fa741864307b7b5bcaba871732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\fa6c500248e543f9f6a95ba0f48f7d5c1cd13d90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fe740b03570eb6d43220cca35aa501b1e53852a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\6e8a2afc84dc4b2fbfc1d4451845f216d41140a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6efc5cc9aaaa5ab0a05d5fb33ed1dbc1c7cc189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\41d293ce6085af24dbed188380fdf9a656c41f98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7140799d9d6a1d7be1547783683e15a7e686deff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\1c94edcd31ed7509bbabe72eb28fd934eafef5d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df812c448ef60fa0032ced451751ff98392b70a1">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86d3d0f47219593a821c021110e384242809e21b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\990ee2712921eb43f5cfe9650af0bea07d6a54ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff3baea295d5079a6b54538c8eab744ea72b4cc">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06f281b0e54a49e5a60c9593ef1e23cfe4091204\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\b83d2133e09d237a4e2cb3eba0b6064a9c92080b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee38b1ab94c8b6b1d8abb60e27a82dcf9b907bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc57787ad31c24b8cacb2f68714d906db19cff53">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24e1d2aca0e4cde2055aa2bcd6b5ff2123a4369e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\900289ff49737b5853b9cd61d11ba431f2028a33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a93a72fe5e0ac12f4a8ff35c5a6ed651e142d10a">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69b4ded68e6a3a379de4f41049c7dc6ff1e7ea4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\784cbbefc58518e2c2790b5558c804076ab12127\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd362e8a7451fb70f9d28498949c1be35e5a2e6e">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_188478eec10aba3a7ed9b95afe4492f1825d9f9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\e0bec9a178a57a4e2a8c8b6ba535f2bb2f06e04c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bb35d2733fd0642dd188f8320126a77e8c78d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\7a3dbb052f583ee413ab353b003f0bb88a06ffc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fe1d70d35715ec20af90cc98ae37a06ff9f0591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\5936d429cc5edffcce5c3de0d2202cb7831271a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe9af5caf4511d9f0aaa7e51b725363da55e2f91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abdullah\.android\build-cache\042ed707055935f1fbfa2dde04b6acf09e2fa599\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Abdullah\GoogleMapTest\android-samples-master\tutorials\CurrentPlaceDetailsOnMap\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd02b6e32ad7ba5e0b4326479fda850e21a0ad28\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Abdullah\\.android\\build-cache\\6e8a2afc84dc4b2fbfc1d4451845f216d41140a4\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

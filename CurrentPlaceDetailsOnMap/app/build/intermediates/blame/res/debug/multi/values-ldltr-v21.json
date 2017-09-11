@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Abdullah\\GoogleMapTest\\android-samples-master\\tutorials\\CurrentPlaceDetailsOnMap\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\Abdullah\\.android\\build-cache\\6e8a2afc84dc4b2fbfc1d4451845f216d41140a4\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
